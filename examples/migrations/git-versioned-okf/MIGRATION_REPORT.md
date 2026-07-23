@@ -57,6 +57,10 @@ Observed round trip:
 | added / removed / changed | 0 / 0 / 0 |
 | parity | PASS |
 
+A live recall query, `Which commit added OKF UI?`, also returned commit
+`06d11403dd4321a4141f4a7db6d32ff2339d20f5` as the highest-ranked result from
+both agents. See `RECALL_REPORT.md` for the observed result and score details.
+
 ## Savings assessment
 
 This Path C workflow starts from local Git, not a paid memory provider.

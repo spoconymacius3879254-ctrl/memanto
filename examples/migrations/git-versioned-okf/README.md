@@ -119,6 +119,8 @@ invalid batch sizes. It invokes Git with an argument array, not a shell command.
   importing the sample into a clean live agent and exporting it again.
 - `MIGRATION_REPORT.md`: commands, counts, timing, limitations, and an honest
   savings assessment.
+- `RECALL_REPORT.md`: the same live recall question returning the same commit as
+  rank #1 from both the source and clean round-trip agents.
 
 Run the local checks:
 
