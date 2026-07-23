@@ -13,6 +13,8 @@ script_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 source_agent="${agent_prefix}-source"
 roundtrip_agent="${agent_prefix}-roundtrip"
 export_root="${HOME}/.memanto/exports"
+demo_limit=${MEMANTO_DEMO_LIMIT:-20}
+demo_ref=${MEMANTO_DEMO_REF:-HEAD}
 
 if [[ -n "${MEMANTO_API_KEY:-}" && -z "${MOORCHEH_API_KEY:-}" ]]; then
   export MOORCHEH_API_KEY="$MEMANTO_API_KEY"
@@ -21,7 +23,8 @@ fi
 mkdir -p "$work_dir"
 python "$script_dir/extract_git_memories.py" \
   --repo "$repo" \
-  --limit 20 \
+  --ref "$demo_ref" \
+  --limit "$demo_limit" \
   --output "$work_dir/git-memories.json"
 
 memanto agent create "$source_agent" \

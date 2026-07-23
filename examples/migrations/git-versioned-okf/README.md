@@ -55,6 +55,20 @@ cd examples/migrations/git-versioned-okf
 ./run_demo.sh /path/to/a/public/git/repository my-okf-demo
 ```
 
+For a shorter recording, set `MEMANTO_DEMO_LIMIT=8`; the default is 20.
+Set `MEMANTO_DEMO_REF=origin/main` to extract only the upstream branch when
+recording from a contributor worktree.
+
+To create an upload-ready terminal recording source with no API key printed:
+
+```bash
+./record_demo.sh /path/to/public/repository unique-demo-prefix demo.cast
+```
+
+The capture shows the source commits, live two-agent migration, readable
+Markdown, deterministic parity result, and the same recall query before and
+after. Agent prefixes must be unique because Memanto agent IDs are persistent.
+
 The command:
 
 1. extracts up to 20 real commits into Memanto batch-memory JSON;
