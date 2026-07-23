@@ -1,0 +1,122 @@
+[
+  {
+    "content": "Commit 4d6344f0d3a9af190710db7f8d69cebc99a9880a in https://github.com/moorcheh-ai/memanto.git.\nAuthored by Het Patel at 2026-07-22T16:33:29-04:00.\nChange: Merge pull request #1608 from moorcheh-ai/feat/auto-label-bounty-prs\nDetails: Feat/auto label bounty prs",
+    "title": "Git change: Merge pull request #1608 from moorcheh-ai/feat/auto-label-bounty-prs",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "4d6344f0d3a9"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@4d6344f0d3a9af190710db7f8d69cebc99a9880a",
+    "created_at": "2026-07-22T16:33:29-04:00"
+  },
+  {
+    "content": "Commit ada4869ae66809243a7ef22d41bf7876534612fe in https://github.com/moorcheh-ai/memanto.git.\nAuthored by Kirtana Venkat at 2026-07-22T11:28:23-07:00.\nChange: Merge branch 'feat/auto-label-bounty-prs' of https://github.com/moorcheh-ai/memanto into feat/auto-label-bounty-prs\nDetails: # Conflicts:\n#\t.github/workflows/bounty-label.yml",
+    "title": "Git change: Merge branch 'feat/auto-label-bounty-prs' of https://github.com/moorcheh-ai/memanto into",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "ada4869ae668"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@ada4869ae66809243a7ef22d41bf7876534612fe",
+    "created_at": "2026-07-22T11:28:23-07:00"
+  },
+  {
+    "content": "Commit ae2d8a34c4745f582768f8b11c81bb1f9cd7da52 in https://github.com/moorcheh-ai/memanto.git.\nAuthored by Kirtana Venkat at 2026-07-22T11:27:14-07:00.\nChange: labeling fix",
+    "title": "Git change: labeling fix",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "ae2d8a34c474"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@ae2d8a34c4745f582768f8b11c81bb1f9cd7da52",
+    "created_at": "2026-07-22T11:27:14-07:00"
+  },
+  {
+    "content": "Commit a7494be31e2b5522fc04b5b3fff57ca97a4477f3 in https://github.com/moorcheh-ai/memanto.git.\nAuthored by Het Patel at 2026-07-22T11:51:17-04:00.\nChange: Merge pull request #1592 from moorcheh-ai/merge/prs-streaming-upload\nDetails: Merge/prs streaming upload",
+    "title": "Git change: Merge pull request #1592 from moorcheh-ai/merge/prs-streaming-upload",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "a7494be31e2b"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@a7494be31e2b5522fc04b5b3fff57ca97a4477f3",
+    "created_at": "2026-07-22T11:51:17-04:00"
+  },
+  {
+    "content": "Commit eaa36d13d4c5d76e6f4b09a21866dd0632c5d3c7 in https://github.com/moorcheh-ai/memanto.git.\nAuthored by het0814 at 2026-07-21T15:36:28-04:00.\nChange: Merge PR #902: validate memory export limits before recall loop",
+    "title": "Git change: Merge PR #902: validate memory export limits before recall loop",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "eaa36d13d4c5"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@eaa36d13d4c5d76e6f4b09a21866dd0632c5d3c7",
+    "created_at": "2026-07-21T15:36:28-04:00"
+  },
+  {
+    "content": "Commit 476aee5c03be4a050da1c7985037dc952161283f in https://github.com/moorcheh-ai/memanto.git.\nAuthored by het0814 at 2026-07-21T15:34:17-04:00.\nChange: Merge PR #1339: stream Claude Code transcript parsing",
+    "title": "Git change: Merge PR #1339: stream Claude Code transcript parsing",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "476aee5c03be"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@476aee5c03be4a050da1c7985037dc952161283f",
+    "created_at": "2026-07-21T15:34:17-04:00"
+  },
+  {
+    "content": "Commit f1ba372ccc2d2df3e4a4de44f3c2671e19a59816 in https://github.com/moorcheh-ai/memanto.git.\nAuthored by het0814 at 2026-07-21T15:33:15-04:00.\nChange: Merge PR #1306: stream SDK file uploads (TypeScript)",
+    "title": "Git change: Merge PR #1306: stream SDK file uploads (TypeScript)",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "f1ba372ccc2d"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@f1ba372ccc2d2df3e4a4de44f3c2671e19a59816",
+    "created_at": "2026-07-21T15:33:15-04:00"
+  },
+  {
+    "content": "Commit 06d11403dd4321a4141f4a7db6d32ff2339d20f5 in https://github.com/moorcheh-ai/memanto.git.\nAuthored by Het Patel at 2026-07-21T14:24:49-04:00.\nChange: Merge pull request #1588 from moorcheh-ai/add/okf-ui\nDetails: feat: update ui , add okf in migrate",
+    "title": "Git change: Merge pull request #1588 from moorcheh-ai/add/okf-ui",
+    "type": "event",
+    "confidence": 1.0,
+    "tags": [
+      "git-history",
+      "public-source",
+      "06d11403dd43"
+    ],
+    "source": "git",
+    "provenance": "imported",
+    "source_ref": "https://github.com/moorcheh-ai/memanto.git@06d11403dd4321a4141f4a7db6d32ff2339d20f5",
+    "created_at": "2026-07-21T14:24:49-04:00"
+  }
+]

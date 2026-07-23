@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "passed": true,
+  "before_records": 8,
+  "after_records": 8,
+  "unchanged_records": 8,
+  "failures": {
+    "added": [],
+    "removed": [],
+    "changed": []
+  }
+}
